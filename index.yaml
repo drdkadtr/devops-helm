@@ -3,12 +3,12 @@ entries:
   helm-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-11T16:53:38.760456972Z"
+    created: "2022-02-11T17:32:17.096835723Z"
     description: A Helm chart for Kubernetes
-    digest: d144f85d9e9ecdeb8a0c9b83bee7cc9cf7ea827bc4d875f004686f3ee735a7c0
+    digest: 8b41d344ad360e39de0b9cd056e74063669448ee578e9cc28d985518f24e4c5f
     name: helm-test
     type: application
     urls:
-    - files/helm-test-0.1.2.tgz
-    version: 0.1.2
-generated: "2022-02-11T16:53:38.759809366Z"
+    - files/helm-test-0.1.4.tgz
+    version: 0.1.4
+generated: "2022-02-11T17:32:17.09592432Z"
