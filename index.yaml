@@ -3,9 +3,9 @@ entries:
   helm-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-16T14:04:47.373170043Z"
+    created: "2022-02-17T09:54:14.946224239Z"
     description: A Helm chart for Kubernetes
-    digest: c7d6422ab7ed7c592f1fbd5546b0a4a489cd88923bd01780e0a4cd3a76684a3d
+    digest: a78af3951f2d15c787c8185517201751aed460a0037e80eed730fa73cc1977a5
     name: helm-test
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-16T14:04:47.372721337Z"
+    created: "2022-02-17T09:54:14.945711635Z"
     description: A Helm chart for Kubernetes
     digest: 95a1a9020a313c6a72c627fdb954fa054289064994d03383ad32120fb4f27412
     name: helm-test
@@ -23,7 +23,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-16T14:04:47.372288132Z"
+    created: "2022-02-17T09:54:14.944853529Z"
     description: A Helm chart for Kubernetes
     digest: 8b41d344ad360e39de0b9cd056e74063669448ee578e9cc28d985518f24e4c5f
     name: helm-test
@@ -33,7 +33,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-16T14:04:47.371810925Z"
+    created: "2022-02-17T09:54:14.944096624Z"
     description: A Helm chart for Kubernetes
     digest: d144f85d9e9ecdeb8a0c9b83bee7cc9cf7ea827bc4d875f004686f3ee735a7c0
     name: helm-test
@@ -41,4 +41,4 @@ entries:
     urls:
     - files/helm-test-0.1.2.tgz
     version: 0.1.2
-generated: "2022-02-16T14:04:47.371187317Z"
+generated: "2022-02-17T09:54:14.942674915Z"
